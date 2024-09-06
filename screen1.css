@@ -1,0 +1,27 @@
+.seat{
+    
+    padding-left: 400px;
+}
+
+.seatA button{
+    background-color: rgb(128, 193, 217);
+}
+
+button{
+    background:    #ff00ff;
+
+border-radius: 11px;
+box-shadow:    0 1px #444444;
+padding:       19px 18px;
+color:         #ffffff;
+display:       inline-block;
+font:          normal bold 26px/1 "Open Sans", sans-serif;
+text-align:    center;
+}
+
+img{
+
+    padding-left: 400px;
+}
+
+
